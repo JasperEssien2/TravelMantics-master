@@ -20,8 +20,9 @@
             android:layout_marginStart="8dp"
             android:layout_marginTop="152dp"
             android:layout_marginEnd="8dp"
-            android:text="Welcome"
-            android:textColor="@color/colorGreen"
+            android:text="Welcome to TravelMatics"
+            android:textColor="@color/colorAccent2"
+            android:textStyle="italic"
             android:textSize="28sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -117,15 +118,15 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Already Registered?"
+                android:text="Have an account already? "
                 android:textColor="#fff" />
 
             <TextView
                 android:id="@+id/signInText"
-                android:textColor="@color/colorGreen"
+                android:text=" Log In"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text=" Sign In"
+                android:textColor="@color/colorAccent2"
                 android:textStyle="bold|italic" />
 
         </LinearLayout>

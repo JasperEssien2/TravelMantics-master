@@ -21,9 +21,10 @@
             android:layout_marginStart="8dp"
             android:layout_marginTop="196dp"
             android:layout_marginEnd="8dp"
-            android:text="Let's Get Started"
-            android:textColor="@color/colorGreen"
-            android:textSize="32sp"
+            android:text="Welcome to TravelMatics"
+            android:textColor="@color/colorAccent2"
+            android:textSize="22sp"
+            android:textStyle="italic"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
@@ -102,7 +103,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text=" Sign Up"
-                android:textColor="@color/colorGreen"
+                android:textColor="@color/colorAccent2"
                 android:textStyle="bold|italic" />
 
         </LinearLayout>

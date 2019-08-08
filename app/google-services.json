@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "214351775800",
+    "firebase_url": "https://travelsmantic.firebaseio.com",
+    "project_id": "travelsmantic",
+    "storage_bucket": "travelsmantic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214351775800:android:81497647979b60e8",
+        "android_client_info": {
+          "package_name": "com.example.alcphase2challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214351775800-fq0ule5u6scs5ltr1qqni79tql6fn875.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alcphase2challenge",
+            "certificate_hash": "7dff82043668684d3bc7de12f5963f2a8f33e654"
+          }
+        },
+        {
+          "client_id": "214351775800-612oe6tqvkjf2rgckn29igldriac05qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd-8VMT6-Xfyyi-Y4x5xwaMd9m57u2c5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214351775800-612oe6tqvkjf2rgckn29igldriac05qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
